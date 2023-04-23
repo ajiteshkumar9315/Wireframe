@@ -77,7 +77,7 @@ header {
  }
 
  .card-image{
-    width: 455px;
+    /* width: 455px; */
     height: 190px;
     margin-bottom: 15px;
     background-color: azure;
